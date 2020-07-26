@@ -1,0 +1,16 @@
+PODS:
+  - JFPickerDate (0.1.0)
+
+DEPENDENCIES:
+  - JFPickerDate (from `../`)
+
+EXTERNAL SOURCES:
+  JFPickerDate:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JFPickerDate: be8e474f5ed2ef58a3b37127241cbd78122612b3
+
+PODFILE CHECKSUM: 12c61e208c732cbbbb7718345843d95819f9bdc3
+
+COCOAPODS: 1.9.1

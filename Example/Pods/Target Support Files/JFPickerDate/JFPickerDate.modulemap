@@ -1,0 +1,6 @@
+framework module JFPickerDate {
+  umbrella header "JFPickerDate-umbrella.h"
+
+  export *
+  module * { export * }
+}

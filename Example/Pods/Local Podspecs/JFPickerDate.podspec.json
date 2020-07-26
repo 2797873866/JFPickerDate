@@ -1,0 +1,22 @@
+{
+  "name": "JFPickerDate",
+  "version": "0.1.0",
+  "summary": "A short description of JFPickerDate.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/acct<blob>=0x32373937383733383636210A32373937383733383636  2797873866!${USER_NAME}122797873866/JFPickerDate",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "acct<blob>=0x32373937383733383636210A32373937383733383636  2797873866!${USER_NAME}122797873866": "2797983866@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/acct<blob>=0x32373937383733383636210A32373937383733383636  2797873866!${USER_NAME}122797873866/JFPickerDate.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "JFPickerDate/Classes/**/*"
+}

@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JFPickerDate_Example' do
+  pod 'JFPickerDate', :path => '../'
+
+  target 'JFPickerDate_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
